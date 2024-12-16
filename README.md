@@ -66,7 +66,7 @@
 <img src="https://kassa.bifit.com/wiki/images/a/ab/Telegram_%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B0.png" align="center" style="width: 35px" />
 </a>
 <a href='blurleisuree@gmail.com'>
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" align="center" style="width: 35px, margin-left: 15px" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" align="center" style="width: 35px; margin-left: 15px" />
 </a>
 
 <br/>  
