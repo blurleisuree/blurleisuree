@@ -66,7 +66,7 @@
 <img src="https://kassa.bifit.com/wiki/images/a/ab/Telegram_%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B0.png" align="center" style="width: 25px" />
 </a>
 <a href=#>
-<img src="https://www.flaticon.com/ru/free-icon/gmail_281769" align="center" style="width: 25px" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Gmail_logo.png" align="center" style="width: 25px" />
 </a>
 
 <br/>  
