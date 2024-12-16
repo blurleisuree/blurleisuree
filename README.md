@@ -63,7 +63,7 @@
 ## Connect with me  
   
 <a href=#>
-<img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" align="center" style="width: 25px" />
+<img src="https://kassa.bifit.com/wiki/images/a/ab/Telegram_%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B0.png" align="center" style="width: 25px" />
 </a>
 
 <br/>  
