@@ -64,7 +64,7 @@
 Telegram  
   
 
-![https://www.flaticon.com/free-icon/telegram_2111646?term=telegram&page=1&position=1&origin=tag&related_id=2111646](https://kassa.bifit.com/wiki/images/a/ab/Telegram_%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B0.png](#)
+[https://www.flaticon.com/free-icon/telegram_2111646?term=telegram&page=1&position=1&origin=tag&related_id=2111646](https://kassa.bifit.com/wiki/images/a/ab/Telegram_%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B0.png](#)
   
 
 <br/>  
