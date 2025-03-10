@@ -6,7 +6,7 @@
 ### <div align="center">I'm Georgiy, a Junior Frontend developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [La-routine-new](https://github.com/blurleisuree/la-routine-new)  
+- 🔭 I’m currently working on [Cloudy-disk](https://github.com/blurleisuree/cloudy-disk)  
   
 
 - 🌱 I’m currently learning Redux and TypeScript  
